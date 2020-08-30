@@ -2,4 +2,4 @@
 SZ
 
 
-Hello
+Hello class! this is the first blog
