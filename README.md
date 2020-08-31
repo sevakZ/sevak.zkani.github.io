@@ -1,5 +1,1 @@
-# sevakZ
-SZ
-
-
-Hello class! this is the first blog
+# sevak.zkani.github.io
